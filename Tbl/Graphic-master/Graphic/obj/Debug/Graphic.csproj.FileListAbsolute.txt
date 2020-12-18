@@ -1,0 +1,15 @@
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\bin\Debug\Graphic.exe
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\bin\Debug\Graphic.pdb
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\App.g.cs
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\Graphic_MarkupCompile.cache
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\Graphic_MarkupCompile.lref
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\MainWindow.baml
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\Graphic.g.resources
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\Graphic.exe
+C:\Users\MSI\Downloads\Graphic-master\Graphic-master\Graphic\obj\Debug\Graphic.pdb
